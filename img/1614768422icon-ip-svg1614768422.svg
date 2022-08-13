@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 135 135" style="enable-background:new 0 0 135 135;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#824F9E;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#B4B4B5;}
+	.st2{fill:#824F9E;}
+	.st3{fill:#8347AD;}
+	.st4{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<circle class="st0" cx="67.5" cy="67.5" r="66"/>
+	</g>
+	<g>
+		<polygon class="st1" points="59.6,59.7 47.3,50.6 31.3,50.6 31.3,48.8 47.9,48.8 60.6,58.3 		"/>
+		<polygon class="st1" points="47.9,86.7 31.3,86.7 31.3,85 47.3,85 59.6,75.5 60.7,76.9 		"/>
+		<polygon class="st1" points="77.5,59.7 76.4,58.3 89.2,48.8 105.8,48.8 105.8,50.6 89.8,50.6 		"/>
+		<polygon class="st1" points="105.8,86.7 89.2,86.7 88.9,86.6 76.4,76.9 77.5,75.5 89.8,85 105.8,85 		"/>
+		<rect x="67.2" y="31.8" class="st2" width="1.8" height="71.4"/>
+		<polygon class="st3" points="59.6,59.7 47.3,50.6 29.8,50.6 29.8,48.8 47.9,48.8 60.6,58.3 		"/>
+		<polygon class="st2" points="47.9,86.7 29.8,86.7 29.8,85 47.3,85 59.6,75.5 60.7,76.9 		"/>
+		<rect x="29.8" y="66.7" class="st2" width="76.6" height="1.8"/>
+		<polygon class="st2" points="77.5,59.7 76.4,58.3 89.2,48.8 105.8,48.8 105.8,50.6 89.8,50.6 		"/>
+		<polygon class="st2" points="105.8,86.7 89.2,86.7 88.9,86.6 76.4,76.9 77.5,75.5 89.8,85 105.8,85 		"/>
+		<path class="st2" d="M100.8,104.4H35.4c-3.7,0-6.8-3-6.8-6.8V37.4c0-3.7,3-6.8,6.8-6.8h65.4c3.7,0,6.8,3,6.8,6.8v60.2
+			C107.6,101.3,104.5,104.4,100.8,104.4z M35.4,33C33,33,31,35,31,37.4v60.2c0,2.4,2,4.4,4.4,4.4h65.4c2.4,0,4.4-2,4.4-4.4V37.4
+			c0-2.4-2-4.4-4.4-4.4H35.4z"/>
+		<g>
+			<rect x="58.5" y="57.8" class="st4" width="19.5" height="19.5"/>
+			<path class="st3" d="M79.1,78.4H57.3V56.6h21.8V78.4z M59.7,76h17.1V58.9H59.7V76z"/>
+		</g>
+		<rect x="62.9" y="62.1" class="st2" width="10.6" height="10.6"/>
+	</g>
+</g>
+</svg>
